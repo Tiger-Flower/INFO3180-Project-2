@@ -1,2 +1,3 @@
-# Lab 6 - VueJS
-The goal of this lab is to become familiar with VueJS.
+ INFO3180-Project-2 
+
+INFO3180-Project-2 
